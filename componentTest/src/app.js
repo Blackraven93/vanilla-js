@@ -9,3 +9,6 @@ class App {
 
 new App();
 
+new App();
+
+// ES Module의 entry file
